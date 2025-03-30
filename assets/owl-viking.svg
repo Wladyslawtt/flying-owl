@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="30" height="30" viewBox="0 0 30 30" xmlns="http://www.w3.org/2000/svg">
+    <!-- Body -->
+    <circle cx="15" cy="15" r="12" fill="#8B4513"/>
+    
+    <!-- Eyes -->
+    <circle cx="12" cy="12" r="2" fill="white"/>
+    <circle cx="18" cy="12" r="2" fill="white"/>
+    <circle cx="12" cy="12" r="1" fill="#8B4513"/>
+    <circle cx="18" cy="12" r="1" fill="#8B4513"/>
+    
+    <!-- Viking Helmet -->
+    <path d="M5 8 L25 8 L20 5 L10 5 Z" fill="#C0C0C0"/>
+    <path d="M10 5 L20 5 L18 3 L12 3 Z" fill="#C0C0C0"/>
+    <path d="M12 3 L18 3 L16 1 L14 1 Z" fill="#C0C0C0"/>
+    
+    <!-- Helmet Details -->
+    <path d="M10 5 L20 5" stroke="#A9A9A9" stroke-width="1" fill="none"/>
+    <path d="M12 3 L18 3" stroke="#A9A9A9" stroke-width="1" fill="none"/>
+    
+    <!-- Horns -->
+    <path d="M5 8 Q3 6 5 4" stroke="#C0C0C0" stroke-width="2" fill="none"/>
+    <path d="M25 8 Q27 6 25 4" stroke="#C0C0C0" stroke-width="2" fill="none"/>
+    
+    <!-- Beard -->
+    <path d="M10 15 Q15 20 20 15" stroke="#8B4513" stroke-width="2" fill="none"/>
+    
+    <!-- Shield -->
+    <path d="M5 20 L8 20 L8 25 L5 25 Z" fill="#C0C0C0"/>
+    <path d="M6 21 L7 21 L7 24 L6 24 Z" fill="#8B4513"/>
+    
+    <!-- Beak -->
+    <path d="M14 16 L16 16 L15 18 Z" fill="#FFA500"/>
+</svg> 

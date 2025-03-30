@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="30" height="30" viewBox="0 0 30 30" xmlns="http://www.w3.org/2000/svg">
+    <!-- Body -->
+    <circle cx="15" cy="15" r="13" fill="#8B4513"/>
+    
+    <!-- Chest feathers -->
+    <circle cx="15" cy="17" r="8" fill="#DEB887"/>
+    
+    <!-- Eyes -->
+    <g>
+        <circle cx="11" cy="12" r="4" fill="white"/>
+        <circle cx="19" cy="12" r="4" fill="white"/>
+        <circle cx="11" cy="12" r="2" fill="black"/>
+        <circle cx="19" cy="12" r="2" fill="black"/>
+        <circle cx="10.5" cy="11.5" r="0.8" fill="white"/>
+        <circle cx="18.5" cy="11.5" r="0.8" fill="white"/>
+    </g>
+    
+    <!-- Beak -->
+    <path d="M13 15 L17 15 L15 18 Z" fill="#FFB100"/>
+    
+    <!-- Eyebrows -->
+    <path d="M7 9 L13 11" stroke="#8B4513" stroke-width="2"/>
+    <path d="M17 11 L23 9" stroke="#8B4513" stroke-width="2"/>
+    
+    <!-- Wings -->
+    <path d="M5 15 Q 15 18 25 15" stroke="#8B4513" stroke-width="2" fill="none"/>
+    
+    <!-- Wizard Hat -->
+    <path d="M5 5 L25 5 L20 8 L10 8 Z" fill="#4B0082"/>
+    <path d="M10 8 L20 8 L15 12 L15 12 Z" fill="#4B0082"/>
+    <path d="M15 5 L15 0 L20 5 Z" fill="#4B0082"/>
+    <circle cx="15" cy="5" r="2" fill="#FFD700"/>
+    
+    <!-- Stars -->
+    <circle cx="8" cy="3" r="1" fill="#FFD700"/>
+    <circle cx="22" cy="3" r="1" fill="#FFD700"/>
+</svg> 

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="30" height="30" viewBox="0 0 30 30" xmlns="http://www.w3.org/2000/svg">
+    <!-- Body -->
+    <circle cx="15" cy="15" r="12" fill="#8B4513"/>
+    
+    <!-- Eyes -->
+    <circle cx="12" cy="12" r="2" fill="white"/>
+    <circle cx="18" cy="12" r="2" fill="white"/>
+    <circle cx="12" cy="12" r="1" fill="#8B4513"/>
+    <circle cx="18" cy="12" r="1" fill="#8B4513"/>
+    
+    <!-- Chef Hat -->
+    <path d="M5 8 L25 8 L20 5 L10 5 Z" fill="white"/>
+    <path d="M10 5 L20 5 L18 3 L12 3 Z" fill="white"/>
+    <path d="M12 3 L18 3 L16 1 L14 1 Z" fill="white"/>
+    
+    <!-- Hat Details -->
+    <path d="M10 5 L20 5" stroke="#f0f0f0" stroke-width="1" fill="none"/>
+    <path d="M12 3 L18 3" stroke="#f0f0f0" stroke-width="1" fill="none"/>
+    
+    <!-- Mustache -->
+    <path d="M12 15 Q15 17 18 15" stroke="#8B4513" stroke-width="1.5" fill="none"/>
+    
+    <!-- Apron -->
+    <path d="M8 15 L22 15 L20 25 L10 25 Z" fill="white"/>
+    <path d="M10 17 L20 17" stroke="#8B4513" stroke-width="1" fill="none"/>
+    
+    <!-- Apron Details -->
+    <path d="M10 19 L20 19" stroke="#8B4513" stroke-width="1" fill="none"/>
+    <path d="M10 21 L20 21" stroke="#8B4513" stroke-width="1" fill="none"/>
+    
+    <!-- Chef's Badge -->
+    <circle cx="15" cy="20" r="2" fill="#FFD700"/>
+    <path d="M15 18 L15 22" stroke="#FFD700" stroke-width="1" fill="none"/>
+    <path d="M13 20 L17 20" stroke="#FFD700" stroke-width="1" fill="none"/>
+    
+    <!-- Beak -->
+    <path d="M14 16 L16 16 L15 18 Z" fill="#FFA500"/>
+</svg> 

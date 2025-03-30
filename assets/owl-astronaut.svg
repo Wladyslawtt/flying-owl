@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="30" height="30" viewBox="0 0 30 30" xmlns="http://www.w3.org/2000/svg">
+    <!-- Body -->
+    <circle cx="15" cy="15" r="12" fill="#34495e"/>
+    
+    <!-- Eyes -->
+    <circle cx="12" cy="12" r="2" fill="white"/>
+    <circle cx="18" cy="12" r="2" fill="white"/>
+    <circle cx="12" cy="12" r="1" fill="#34495e"/>
+    <circle cx="18" cy="12" r="1" fill="#34495e"/>
+    
+    <!-- Helmet -->
+    <circle cx="15" cy="15" r="14" fill="none" stroke="white" stroke-width="1"/>
+    <path d="M5 15 L25 15" stroke="white" stroke-width="1"/>
+    
+    <!-- Helmet Details -->
+    <path d="M8 12 L22 12" stroke="white" stroke-width="1" fill="none"/>
+    <path d="M8 18 L22 18" stroke="white" stroke-width="1" fill="none"/>
+    
+    <!-- Visor -->
+    <path d="M8 10 Q15 15 22 10" stroke="white" stroke-width="1.5" fill="none"/>
+    <path d="M8 10 Q15 13 22 10" stroke="#3498db" stroke-width="1" fill="none"/>
+    
+    <!-- Oxygen Tank -->
+    <path d="M5 20 L8 20 L8 25 L5 25 Z" fill="white"/>
+    <path d="M6 21 L7 21 L7 24 L6 24 Z" fill="#3498db"/>
+    <path d="M6 22 L7 22" stroke="#2980b9" stroke-width="1" fill="none"/>
+    
+    <!-- Space Suit Details -->
+    <path d="M8 15 L22 15" stroke="white" stroke-width="1" fill="none"/>
+    <path d="M10 17 L20 17" stroke="white" stroke-width="1" fill="none"/>
+    
+    <!-- Beak -->
+    <path d="M14 16 L16 16 L15 18 Z" fill="#e74c3c"/>
+</svg> 

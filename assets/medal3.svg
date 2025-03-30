@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24" height="24" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+    <!-- Outer glow -->
+    <circle cx="12" cy="12" r="11" fill="#CD7F32" opacity="0.3"/>
+    <!-- Main medal -->
+    <circle cx="12" cy="12" r="10" fill="#CD7F32"/>
+    <!-- Inner circle -->
+    <circle cx="12" cy="12" r="8" fill="#B87333"/>
+    <!-- Shine effect -->
+    <path d="M4 4 L12 4 L12 12 L4 12 Z" fill="white" opacity="0.2"/>
+    <!-- Number -->
+    <text x="12" y="16" font-size="12" text-anchor="middle" fill="white" font-weight="bold">3</text>
+    <!-- Decorative pattern -->
+    <path d="M8 8 L12 10 L16 8" stroke="#B87333" stroke-width="1" fill="none"/>
+    <path d="M8 10 L12 12 L16 10" stroke="#B87333" stroke-width="1" fill="none"/>
+</svg> 
