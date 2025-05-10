@@ -1,4 +1,4 @@
-# Flappy Bird - Shop Edition
+# Flappy Bird - Clone
 
 A modern take on the classic Flappy Bird game with a shop system for customizing your bird's appearance.
 
